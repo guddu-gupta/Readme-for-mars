@@ -1,6 +1,6 @@
 # Rope Climbing Robot
 
-##Applications
+## Applications
 
 Robot is planned to serve the following tasks:
 
